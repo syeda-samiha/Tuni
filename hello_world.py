@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-print("Hello World!")
+print("Hello from my local repository!")
+print("Hello from the remote repository!")
+
+
 =======
 print("Hello world!")
->>>>>>> course-remote/master
-print("Hello from feature")
-print("Hello from release")
-
+>>>>>>> intermediate-remote/master
